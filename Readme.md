@@ -11,4 +11,6 @@ final produkt could look like this:
 
 ![Mandelbrot Spiral](MandelBrot_Spiral.png)
 
+![Mandelbrot_Spiral_Twilightcolor](Mandelbrot_spiral_twilight.png)
+
 Guide can be found [here](https://realpython.com/mandelbrot-set-python/)
